@@ -120,5 +120,7 @@ This dataset is used for **educational and portfolio demonstration purposes only
 
 ## 👩‍💻 Author
 
-**Neha Singh** 
-Business Analyst
+**Neha Singh**  
+Business Analyst  
+
+---
