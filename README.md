@@ -17,11 +17,11 @@ This project focuses on tracking corporate carbon footprints, analyzing greenhou
 
 ## 📊 Key KPIs in the Dashboard
 
-- **Total GHG Emissions:** 321,544.75 MT CO2e (Accumulated corporate carbon footprint across all reporting years)
-- **2024 Baseline Emissions:** 154,210.30 MT CO2e (The fixed historical anchor used to judge reduction targets)
-- **Target Variance:** +14,842.15 MT CO2e (The total volume running over the combined regulatory budget, signaling risk)
-- **Scope 1 & 2 Emissions:** 182,344.25 MT CO2e (Carbon footprint originating directly from internal facility utility consumption)
-- **Scope 3 Emissions:** 139,200.50 MT CO2e (Indirect carbon footprint generated via supply chain freight logistics)
+- **Total GHG Emissions:** 321,544.75 MT CO₂e (Accumulated corporate carbon footprint across all reporting years)
+- **2024 Baseline Emissions:** 154,210.30 MT CO₂e (The fixed historical anchor used to judge reduction targets)
+- **Target Variance:** +14,842.15 MT CO₂e (The total volume running over the combined regulatory budget, signaling risk)
+- **Scope 1 & 2 Emissions:** 182,344.25 MT CO₂e (Carbon footprint originating directly from internal facility utility consumption)
+- **Scope 3 Emissions:** 139,200.50 MT CO₂e (Indirect carbon footprint generated via supply chain freight logistics)
 
 ---
 
