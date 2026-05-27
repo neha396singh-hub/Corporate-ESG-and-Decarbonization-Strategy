@@ -108,7 +108,7 @@ This dataset is used for **educational and portfolio demonstration purposes only
 
 ## 📸 Dashboard Preview
 
-*(Add your dashboard screenshot link here after pushing the image to your repository)* `![image alt](https://github.com/YOUR_USERNAME/REPO_NAME/blob/main/Your_Dashboard_Image.png?raw=true)`
+![image alt](https://github.com/neha396singh-hub/Customer_Churn_Analysis_SQL_PowerBI/blob/main/Documents/Dashboard_Overview.png?raw=true)
 
 ---
 
@@ -120,4 +120,5 @@ This dataset is used for **educational and portfolio demonstration purposes only
 
 ## 👩‍💻 Author
 
-**Neha Singh** Business Analyst
+**Neha Singh** 
+Business Analyst
