@@ -114,7 +114,7 @@ This dataset is used for **educational and portfolio demonstration purposes only
 
 ## 🚀 Project Summary
 
-> This project showcases a robust, corporate-grade data ecosystem—engineering raw operational logs into pre-computed SQL views and transforming them into an interactive Power BI analytics suite for strategic carbon tracking and compliance audit readiness.
+> This project showcases a robust, corporate-grade data ecosystem - engineering raw operational logs into pre-computed SQL views and transforming them into an interactive Power BI analytics suite for strategic carbon tracking and compliance audit readiness.
 
 ---
 
