@@ -1,0 +1,6 @@
+id,name,country,segment,target
+PLNT_01,Detroit Auto Assembly,USA,Automotive,0.25
+PLNT_02,Munich Powertrain,Germany,Automotive,0.3
+PLNT_03,Shenzhen Electronics,China,Tech Hardware,0.2
+PLNT_04,Monterrey Stamping,Mexico,Automotive,0.15
+PLNT_05,Bengaluru Semi-Con,India,Tech Hardware,0.35

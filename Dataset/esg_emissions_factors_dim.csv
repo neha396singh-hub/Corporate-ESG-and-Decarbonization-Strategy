@@ -1,0 +1,28 @@
+Year,Activity_Type,Scope,Emission_Factor
+2024,Grid Electricity,Scope 2,0.38
+2024,Natural Gas,Scope 1,0.18
+2024,Heavy Fuel Oil,Scope 1,0.26
+2024,Solar,Scope 1,0.0
+2024,Wind,Scope 1,0.0
+2024,Air Freight,Scope 3,0.0005
+2024,Ocean Cargo,Scope 3,1e-05
+2024,Heavy Truck,Scope 3,0.00012
+2024,Rail,Scope 3,2e-05
+2025,Grid Electricity,Scope 2,0.35
+2025,Natural Gas,Scope 1,0.18
+2025,Heavy Fuel Oil,Scope 1,0.26
+2025,Solar,Scope 1,0.0
+2025,Wind,Scope 1,0.0
+2025,Air Freight,Scope 3,0.0005
+2025,Ocean Cargo,Scope 3,1e-05
+2025,Heavy Truck,Scope 3,0.00012
+2025,Rail,Scope 3,2e-05
+2026,Grid Electricity,Scope 2,0.31
+2026,Natural Gas,Scope 1,0.18
+2026,Heavy Fuel Oil,Scope 1,0.26
+2026,Solar,Scope 1,0.0
+2026,Wind,Scope 1,0.0
+2026,Air Freight,Scope 3,0.0005
+2026,Ocean Cargo,Scope 3,1e-05
+2026,Heavy Truck,Scope 3,0.00012
+2026,Rail,Scope 3,2e-05
